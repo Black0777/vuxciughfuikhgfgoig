@@ -37,7 +37,7 @@ path_utilities = "utilities"
 path_download = "audio"
 path_lock = f"{path_utilities}/locked"
 
-client = BotAmino("oaz7zgj9oa@vddaz.com","indian4321")
+client = BotAmino("kaifansari1819@gmail.com","KAIFANSARI(+-1")
 client.prefix = "/"
 
 
