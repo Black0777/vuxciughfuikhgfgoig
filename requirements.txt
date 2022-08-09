@@ -4,7 +4,6 @@ google_trans_new
 youtube_dl
 requests
 jokes
-time
 random
 chatbot
 alice
