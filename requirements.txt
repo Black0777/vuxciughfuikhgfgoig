@@ -4,8 +4,6 @@ google_trans_new
 youtube_dl
 requests
 jokes
-json
-Thread
 time
 random
 chatbot
