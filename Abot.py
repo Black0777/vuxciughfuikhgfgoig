@@ -2,7 +2,7 @@ from os import system
 system("pip3 install -U amino.fix pip")
 #from keep_alive import keep_alive
 #keep_alive()
-import amino
+#import amino
 #from amino import client
 from alice import chatbot
 from BotAmino import BotAmino
