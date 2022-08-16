@@ -19,7 +19,7 @@ from .socket import Callbacks, SocketHandler
 device = device.DeviceGenerator()
 
 class Client(Callbacks, SocketHandler):
-    def __init__(self, deviceId: str = "2271017D5F917B37DAC9C325B10542BC9B63109292D882729D1813D5355404380E2F1A699A34629C10", proxies: dict = None, certificatePath = None, socket_trace = False, socketDebugging = False):
+    def __init__(self, deviceId: str = "4264666532646137382D373035392D346138382D626139302D643932303432316132316366D3257BB6CE0EAEE1E7F6BBC8F3AAD966FDCE0381", proxies: dict = None, certificatePath = None, socket_trace = False, socketDebugging = False):
         self.api = "https://service.narvii.com/api/v1"
         self.apip = "https://aminoapps.com/api-p"
         self.authenticated = False
